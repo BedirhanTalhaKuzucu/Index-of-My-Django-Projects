@@ -1,10 +1,11 @@
 <p align="center"> 
   
 <h1 align="center">Index of Django Projects</h1>
+<h2 align="center">This repo contains my Django Projects </h2>
 
 </p>
 
-<p align="center">  This repository contains my React projects.   </p>
+
 
 <table>
     <thead>
