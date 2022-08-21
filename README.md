@@ -4,7 +4,7 @@
 
 </p>
 
-<p align="center">    </p>
+<p align="center">  This repository contains my React projects.   </p>
 
 <table>
     <thead>
